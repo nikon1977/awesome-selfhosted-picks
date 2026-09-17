@@ -132,6 +132,7 @@ Server platforms and homelab dashboards.
 - [Cosmos Cloud](https://github.com/azukaar/Cosmos-Server) — Secure all-in-one self-hosted server platform.
 - [Dashwise](https://github.com/andreasmolnardev/dashwise) — All-in-one homelab dashboard with auth.
 - [Glance](https://github.com/glanceapp/glance) — Customizable, fast self-hosted dashboard.
+- [Pinnule](https://github.com/nikon1977/pinnule) — Zero-touch dashboard with automated discovery.
 - [Puter](https://github.com/HeyPuter/puter) — Web-based, self-hostable internet OS.
 
 ## Utilities
